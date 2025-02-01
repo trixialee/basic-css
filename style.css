@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    background-color: #7a4c25;
+    padding: 30px;
+}
+
+.navbar {
+    background-color: tan;
+    padding: 10px;
+}
+
+.navbar a {
+    color: green;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.content {
+    background-color: tan;
+    padding: 20px;
+}
